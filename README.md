@@ -25,7 +25,8 @@ A short film created as part of the Multimedia course, exploring **college life,
 - Self-recorded footage, dialogues, and background music (FreeSound / YouTube Audio Library).  
 
 ## 👨‍💻 Contributor  
-- Ritik Lodhi (23cd3054)  
+- Ritik Lodhi (23CD3054)
+- Suyash Rawat (23CD3047)
+- Vyankatesh Kulkarni (23CD3052)
+- Vipin Joshi(23CD3051) 
 
-## 🔗 Repository  
-[GitHub Link](https://github.com/ritiklodi23/shortfilm_project)  
